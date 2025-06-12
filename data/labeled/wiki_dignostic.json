@@ -1,0 +1,594 @@
+[
+  {
+    "token": "On-board",
+    "ner_tag": 1
+  },
+  {
+    "token": "diagnostics",
+    "ner_tag": 2
+  },
+  {
+    "token": "(OBD)",
+    "ner_tag": 2
+  },
+  {
+    "token": "is",
+    "ner_tag": 0
+  },
+  {
+    "token": "a",
+    "ner_tag": 0
+  },
+  {
+    "token": "term",
+    "ner_tag": 0
+  },
+  {
+    "token": "referring",
+    "ner_tag": 0
+  },
+  {
+    "token": "to",
+    "ner_tag": 0
+  },
+  {
+    "token": "a",
+    "ner_tag": 0
+  },
+  {
+    "token": "vehicle's",
+    "ner_tag": 0
+  },
+  {
+    "token": "self-diagnostic",
+    "ner_tag": 1
+  },
+  {
+    "token": "and",
+    "ner_tag": 2
+  },
+  {
+    "token": "reporting",
+    "ner_tag": 2
+  },
+  {
+    "token": "capability.",
+    "ner_tag": 0
+  },
+  {
+    "token": "In",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "United",
+    "ner_tag": 0
+  },
+  {
+    "token": "States,",
+    "ner_tag": 0
+  },
+  {
+    "token": "this",
+    "ner_tag": 0
+  },
+  {
+    "token": "capability",
+    "ner_tag": 0
+  },
+  {
+    "token": "is",
+    "ner_tag": 0
+  },
+  {
+    "token": "a",
+    "ner_tag": 0
+  },
+  {
+    "token": "requirement",
+    "ner_tag": 0
+  },
+  {
+    "token": "to",
+    "ner_tag": 0
+  },
+  {
+    "token": "comply",
+    "ner_tag": 7
+  },
+  {
+    "token": "with",
+    "ner_tag": 8
+  },
+  {
+    "token": "federal",
+    "ner_tag": 0
+  },
+  {
+    "token": "emissions",
+    "ner_tag": 3
+  },
+  {
+    "token": "standards",
+    "ner_tag": 4
+  },
+  {
+    "token": "to",
+    "ner_tag": 0
+  },
+  {
+    "token": "detect",
+    "ner_tag": 7
+  },
+  {
+    "token": "failures",
+    "ner_tag": 5
+  },
+  {
+    "token": "that",
+    "ner_tag": 0
+  },
+  {
+    "token": "may",
+    "ner_tag": 0
+  },
+  {
+    "token": "increase",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "vehicle",
+    "ner_tag": 0
+  },
+  {
+    "token": "tailpipe",
+    "ner_tag": 3
+  },
+  {
+    "token": "emissions",
+    "ner_tag": 4
+  },
+  {
+    "token": "to",
+    "ner_tag": 0
+  },
+  {
+    "token": "more",
+    "ner_tag": 0
+  },
+  {
+    "token": "than",
+    "ner_tag": 0
+  },
+  {
+    "token": "150%",
+    "ner_tag": 3
+  },
+  {
+    "token": "of",
+    "ner_tag": 1
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "standard",
+    "ner_tag": 0
+  },
+  {
+    "token": "to",
+    "ner_tag": 0
+  },
+  {
+    "token": "which",
+    "ner_tag": 0
+  },
+  {
+    "token": "it",
+    "ner_tag": 0
+  },
+  {
+    "token": "was",
+    "ner_tag": 0
+  },
+  {
+    "token": "originally",
+    "ner_tag": 0
+  },
+  {
+    "token": "certified.",
+    "ner_tag": 7
+  },
+  {
+    "token": "OBD",
+    "ner_tag": 1
+  },
+  {
+    "token": "systems",
+    "ner_tag": 2
+  },
+  {
+    "token": "give",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "vehicle",
+    "ner_tag": 0
+  },
+  {
+    "token": "owner",
+    "ner_tag": 0
+  },
+  {
+    "token": "or",
+    "ner_tag": 0
+  },
+  {
+    "token": "repair",
+    "ner_tag": 7
+  },
+  {
+    "token": "technician",
+    "ner_tag": 0
+  },
+  {
+    "token": "access",
+    "ner_tag": 0
+  },
+  {
+    "token": "to",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "status",
+    "ner_tag": 0
+  },
+  {
+    "token": "of",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "various",
+    "ner_tag": 0
+  },
+  {
+    "token": "vehicle",
+    "ner_tag": 1
+  },
+  {
+    "token": "sub-systems.",
+    "ner_tag": 2
+  },
+  {
+    "token": "The",
+    "ner_tag": 0
+  },
+  {
+    "token": "amount",
+    "ner_tag": 0
+  },
+  {
+    "token": "of",
+    "ner_tag": 0
+  },
+  {
+    "token": "diagnostic",
+    "ner_tag": 1
+  },
+  {
+    "token": "information",
+    "ner_tag": 2
+  },
+  {
+    "token": "available",
+    "ner_tag": 0
+  },
+  {
+    "token": "via",
+    "ner_tag": 0
+  },
+  {
+    "token": "OBD",
+    "ner_tag": 2
+  },
+  {
+    "token": "has",
+    "ner_tag": 0
+  },
+  {
+    "token": "varied",
+    "ner_tag": 0
+  },
+  {
+    "token": "widely",
+    "ner_tag": 0
+  },
+  {
+    "token": "since",
+    "ner_tag": 0
+  },
+  {
+    "token": "its",
+    "ner_tag": 0
+  },
+  {
+    "token": "introduction",
+    "ner_tag": 7
+  },
+  {
+    "token": "in",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "early",
+    "ner_tag": 0
+  },
+  {
+    "token": "1980s",
+    "ner_tag": 0
+  },
+  {
+    "token": "versions",
+    "ner_tag": 0
+  },
+  {
+    "token": "of",
+    "ner_tag": 0
+  },
+  {
+    "token": "onboard",
+    "ner_tag": 1
+  },
+  {
+    "token": "vehicle",
+    "ner_tag": 2
+  },
+  {
+    "token": "computers.",
+    "ner_tag": 2
+  },
+  {
+    "token": "Early",
+    "ner_tag": 0
+  },
+  {
+    "token": "versions",
+    "ner_tag": 0
+  },
+  {
+    "token": "of",
+    "ner_tag": 0
+  },
+  {
+    "token": "OBD",
+    "ner_tag": 1
+  },
+  {
+    "token": "would",
+    "ner_tag": 0
+  },
+  {
+    "token": "simply",
+    "ner_tag": 0
+  },
+  {
+    "token": "illuminate",
+    "ner_tag": 7
+  },
+  {
+    "token": "a",
+    "ner_tag": 0
+  },
+  {
+    "token": "tell-tale",
+    "ner_tag": 1
+  },
+  {
+    "token": "light",
+    "ner_tag": 2
+  },
+  {
+    "token": "if",
+    "ner_tag": 0
+  },
+  {
+    "token": "a",
+    "ner_tag": 0
+  },
+  {
+    "token": "problem",
+    "ner_tag": 0
+  },
+  {
+    "token": "was",
+    "ner_tag": 0
+  },
+  {
+    "token": "detected,",
+    "ner_tag": 7
+  },
+  {
+    "token": "but",
+    "ner_tag": 0
+  },
+  {
+    "token": "would",
+    "ner_tag": 0
+  },
+  {
+    "token": "not",
+    "ner_tag": 0
+  },
+  {
+    "token": "provide",
+    "ner_tag": 0
+  },
+  {
+    "token": "any",
+    "ner_tag": 0
+  },
+  {
+    "token": "information",
+    "ner_tag": 0
+  },
+  {
+    "token": "as",
+    "ner_tag": 0
+  },
+  {
+    "token": "to",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "nature",
+    "ner_tag": 0
+  },
+  {
+    "token": "of",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "problem.",
+    "ner_tag": 5
+  },
+  {
+    "token": "Modern",
+    "ner_tag": 0
+  },
+  {
+    "token": "OBD",
+    "ner_tag": 1
+  },
+  {
+    "token": "implementations",
+    "ner_tag": 2
+  },
+  {
+    "token": "use",
+    "ner_tag": 0
+  },
+  {
+    "token": "a",
+    "ner_tag": 0
+  },
+  {
+    "token": "standardized",
+    "ner_tag": 0
+  },
+  {
+    "token": "digital",
+    "ner_tag": 1
+  },
+  {
+    "token": "communications",
+    "ner_tag": 2
+  },
+  {
+    "token": "port",
+    "ner_tag": 2
+  },
+  {
+    "token": "to",
+    "ner_tag": 0
+  },
+  {
+    "token": "provide",
+    "ner_tag": 0
+  },
+  {
+    "token": "real-time",
+    "ner_tag": 3
+  },
+  {
+    "token": "data",
+    "ner_tag": 4
+  },
+  {
+    "token": "and",
+    "ner_tag": 0
+  },
+  {
+    "token": "diagnostic",
+    "ner_tag": 1
+  },
+  {
+    "token": "trouble",
+    "ner_tag": 2
+  },
+  {
+    "token": "codes",
+    "ner_tag": 2
+  },
+  {
+    "token": "which",
+    "ner_tag": 0
+  },
+  {
+    "token": "allow",
+    "ner_tag": 0
+  },
+  {
+    "token": "malfunctions",
+    "ner_tag": 0
+  },
+  {
+    "token": "within",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "vehicle",
+    "ner_tag": 0
+  },
+  {
+    "token": "to",
+    "ner_tag": 0
+  },
+  {
+    "token": "be",
+    "ner_tag": 0
+  },
+  {
+    "token": "rapidly",
+    "ner_tag": 0
+  },
+  {
+    "token": "identified.",
+    "ner_tag": 7
+  }
+]

@@ -1,0 +1,770 @@
+[
+  {
+    "token": "An",
+    "ner_tag": 0
+  },
+  {
+    "token": "anti-lock",
+    "ner_tag": 1
+  },
+  {
+    "token": "braking",
+    "ner_tag": 2
+  },
+  {
+    "token": "system",
+    "ner_tag": 2
+  },
+  {
+    "token": "(ABS)",
+    "ner_tag": 2
+  },
+  {
+    "token": "is",
+    "ner_tag": 0
+  },
+  {
+    "token": "a",
+    "ner_tag": 0
+  },
+  {
+    "token": "safety",
+    "ner_tag": 3
+  },
+  {
+    "token": "anti-skid",
+    "ner_tag": 3
+  },
+  {
+    "token": "braking",
+    "ner_tag": 2
+  },
+  {
+    "token": "system",
+    "ner_tag": 2
+  },
+  {
+    "token": "used",
+    "ner_tag": 0
+  },
+  {
+    "token": "on",
+    "ner_tag": 0
+  },
+  {
+    "token": "aircraft",
+    "ner_tag": 0
+  },
+  {
+    "token": "and",
+    "ner_tag": 0
+  },
+  {
+    "token": "on",
+    "ner_tag": 0
+  },
+  {
+    "token": "land",
+    "ner_tag": 0
+  },
+  {
+    "token": "vehicles,",
+    "ner_tag": 0
+  },
+  {
+    "token": "such",
+    "ner_tag": 0
+  },
+  {
+    "token": "as",
+    "ner_tag": 0
+  },
+  {
+    "token": "cars,",
+    "ner_tag": 0
+  },
+  {
+    "token": "motorcycles,",
+    "ner_tag": 0
+  },
+  {
+    "token": "trucks,",
+    "ner_tag": 0
+  },
+  {
+    "token": "and",
+    "ner_tag": 0
+  },
+  {
+    "token": "buses.",
+    "ner_tag": 0
+  },
+  {
+    "token": "ABS",
+    "ner_tag": 1
+  },
+  {
+    "token": "operates",
+    "ner_tag": 7
+  },
+  {
+    "token": "by",
+    "ner_tag": 8
+  },
+  {
+    "token": "preventing",
+    "ner_tag": 8
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "wheels",
+    "ner_tag": 0
+  },
+  {
+    "token": "from",
+    "ner_tag": 0
+  },
+  {
+    "token": "locking",
+    "ner_tag": 8
+  },
+  {
+    "token": "up",
+    "ner_tag": 8
+  },
+  {
+    "token": "during",
+    "ner_tag": 0
+  },
+  {
+    "token": "braking,",
+    "ner_tag": 2
+  },
+  {
+    "token": "thereby",
+    "ner_tag": 8
+  },
+  {
+    "token": "maintaining",
+    "ner_tag": 8
+  },
+  {
+    "token": "tractive",
+    "ner_tag": 3
+  },
+  {
+    "token": "contact",
+    "ner_tag": 4
+  },
+  {
+    "token": "with",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "road",
+    "ner_tag": 0
+  },
+  {
+    "token": "surface",
+    "ner_tag": 0
+  },
+  {
+    "token": "and",
+    "ner_tag": 0
+  },
+  {
+    "token": "allowing",
+    "ner_tag": 8
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "driver",
+    "ner_tag": 0
+  },
+  {
+    "token": "to",
+    "ner_tag": 0
+  },
+  {
+    "token": "maintain",
+    "ner_tag": 8
+  },
+  {
+    "token": "more",
+    "ner_tag": 0
+  },
+  {
+    "token": "control",
+    "ner_tag": 0
+  },
+  {
+    "token": "over",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "vehicle.",
+    "ner_tag": 0
+  },
+  {
+    "token": "ABS",
+    "ner_tag": 1
+  },
+  {
+    "token": "is",
+    "ner_tag": 0
+  },
+  {
+    "token": "an",
+    "ner_tag": 0
+  },
+  {
+    "token": "automated",
+    "ner_tag": 1
+  },
+  {
+    "token": "system",
+    "ner_tag": 2
+  },
+  {
+    "token": "that",
+    "ner_tag": 0
+  },
+  {
+    "token": "uses",
+    "ner_tag": 7
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "principles",
+    "ner_tag": 4
+  },
+  {
+    "token": "of",
+    "ner_tag": 0
+  },
+  {
+    "token": "threshold",
+    "ner_tag": 3
+  },
+  {
+    "token": "braking",
+    "ner_tag": 2
+  },
+  {
+    "token": "and",
+    "ner_tag": 0
+  },
+  {
+    "token": "cadence",
+    "ner_tag": 3
+  },
+  {
+    "token": "braking,",
+    "ner_tag": 2
+  },
+  {
+    "token": "techniques",
+    "ner_tag": 0
+  },
+  {
+    "token": "which",
+    "ner_tag": 0
+  },
+  {
+    "token": "were",
+    "ner_tag": 0
+  },
+  {
+    "token": "once",
+    "ner_tag": 0
+  },
+  {
+    "token": "practiced",
+    "ner_tag": 8
+  },
+  {
+    "token": "by",
+    "ner_tag": 0
+  },
+  {
+    "token": "skillful",
+    "ner_tag": 0
+  },
+  {
+    "token": "drivers",
+    "ner_tag": 0
+  },
+  {
+    "token": "before",
+    "ner_tag": 0
+  },
+  {
+    "token": "ABS",
+    "ner_tag": 1
+  },
+  {
+    "token": "was",
+    "ner_tag": 0
+  },
+  {
+    "token": "widespread.",
+    "ner_tag": 0
+  },
+  {
+    "token": "ABS",
+    "ner_tag": 1
+  },
+  {
+    "token": "operates",
+    "ner_tag": 7
+  },
+  {
+    "token": "at",
+    "ner_tag": 0
+  },
+  {
+    "token": "a",
+    "ner_tag": 0
+  },
+  {
+    "token": "much",
+    "ner_tag": 0
+  },
+  {
+    "token": "faster",
+    "ner_tag": 4
+  },
+  {
+    "token": "rate",
+    "ner_tag": 4
+  },
+  {
+    "token": "and",
+    "ner_tag": 0
+  },
+  {
+    "token": "more",
+    "ner_tag": 0
+  },
+  {
+    "token": "effectively",
+    "ner_tag": 4
+  },
+  {
+    "token": "than",
+    "ner_tag": 0
+  },
+  {
+    "token": "most",
+    "ner_tag": 0
+  },
+  {
+    "token": "drivers",
+    "ner_tag": 0
+  },
+  {
+    "token": "could",
+    "ner_tag": 0
+  },
+  {
+    "token": "manage.",
+    "ner_tag": 8
+  },
+  {
+    "token": "Although",
+    "ner_tag": 0
+  },
+  {
+    "token": "ABS",
+    "ner_tag": 1
+  },
+  {
+    "token": "generally",
+    "ner_tag": 0
+  },
+  {
+    "token": "offers",
+    "ner_tag": 0
+  },
+  {
+    "token": "improved",
+    "ner_tag": 3
+  },
+  {
+    "token": "vehicle",
+    "ner_tag": 4
+  },
+  {
+    "token": "control",
+    "ner_tag": 4
+  },
+  {
+    "token": "and",
+    "ner_tag": 0
+  },
+  {
+    "token": "decreases",
+    "ner_tag": 0
+  },
+  {
+    "token": "stopping",
+    "ner_tag": 3
+  },
+  {
+    "token": "distances",
+    "ner_tag": 4
+  },
+  {
+    "token": "on",
+    "ner_tag": 0
+  },
+  {
+    "token": "dry",
+    "ner_tag": 0
+  },
+  {
+    "token": "and",
+    "ner_tag": 0
+  },
+  {
+    "token": "some",
+    "ner_tag": 0
+  },
+  {
+    "token": "slippery",
+    "ner_tag": 5
+  },
+  {
+    "token": "surfaces,",
+    "ner_tag": 6
+  },
+  {
+    "token": "on",
+    "ner_tag": 0
+  },
+  {
+    "token": "loose",
+    "ner_tag": 5
+  },
+  {
+    "token": "gravel",
+    "ner_tag": 6
+  },
+  {
+    "token": "or",
+    "ner_tag": 0
+  },
+  {
+    "token": "snow-covered",
+    "ner_tag": 5
+  },
+  {
+    "token": "surfaces",
+    "ner_tag": 6
+  },
+  {
+    "token": "ABS",
+    "ner_tag": 1
+  },
+  {
+    "token": "may",
+    "ner_tag": 0
+  },
+  {
+    "token": "significantly",
+    "ner_tag": 0
+  },
+  {
+    "token": "increase",
+    "ner_tag": 0
+  },
+  {
+    "token": "braking",
+    "ner_tag": 3
+  },
+  {
+    "token": "distance,",
+    "ner_tag": 4
+  },
+  {
+    "token": "while",
+    "ner_tag": 0
+  },
+  {
+    "token": "still",
+    "ner_tag": 0
+  },
+  {
+    "token": "improving",
+    "ner_tag": 0
+  },
+  {
+    "token": "steering",
+    "ner_tag": 3
+  },
+  {
+    "token": "control.",
+    "ner_tag": 4
+  },
+  {
+    "token": "Since",
+    "ner_tag": 0
+  },
+  {
+    "token": "ABS",
+    "ner_tag": 1
+  },
+  {
+    "token": "was",
+    "ner_tag": 0
+  },
+  {
+    "token": "introduced",
+    "ner_tag": 0
+  },
+  {
+    "token": "in",
+    "ner_tag": 0
+  },
+  {
+    "token": "production",
+    "ner_tag": 1
+  },
+  {
+    "token": "vehicles,",
+    "ner_tag": 2
+  },
+  {
+    "token": "such",
+    "ner_tag": 0
+  },
+  {
+    "token": "systems",
+    "ner_tag": 0
+  },
+  {
+    "token": "have",
+    "ner_tag": 0
+  },
+  {
+    "token": "become",
+    "ner_tag": 0
+  },
+  {
+    "token": "increasingly",
+    "ner_tag": 0
+  },
+  {
+    "token": "sophisticated",
+    "ner_tag": 0
+  },
+  {
+    "token": "and",
+    "ner_tag": 0
+  },
+  {
+    "token": "effective.",
+    "ner_tag": 0
+  },
+  {
+    "token": "Modern",
+    "ner_tag": 0
+  },
+  {
+    "token": "versions",
+    "ner_tag": 0
+  },
+  {
+    "token": "may",
+    "ner_tag": 0
+  },
+  {
+    "token": "not",
+    "ner_tag": 0
+  },
+  {
+    "token": "only",
+    "ner_tag": 0
+  },
+  {
+    "token": "prevent",
+    "ner_tag": 3
+  },
+  {
+    "token": "wheel",
+    "ner_tag": 5
+  },
+  {
+    "token": "lock",
+    "ner_tag": 6
+  },
+  {
+    "token": "under",
+    "ner_tag": 0
+  },
+  {
+    "token": "braking,",
+    "ner_tag": 3
+  },
+  {
+    "token": "but",
+    "ner_tag": 0
+  },
+  {
+    "token": "may",
+    "ner_tag": 0
+  },
+  {
+    "token": "also",
+    "ner_tag": 0
+  },
+  {
+    "token": "alter",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "front-to-rear",
+    "ner_tag": 1
+  },
+  {
+    "token": "brake",
+    "ner_tag": 2
+  },
+  {
+    "token": "bias.",
+    "ner_tag": 2
+  },
+  {
+    "token": "This",
+    "ner_tag": 0
+  },
+  {
+    "token": "latter",
+    "ner_tag": 0
+  },
+  {
+    "token": "function,",
+    "ner_tag": 0
+  },
+  {
+    "token": "depending",
+    "ner_tag": 0
+  },
+  {
+    "token": "on",
+    "ner_tag": 0
+  },
+  {
+    "token": "its",
+    "ner_tag": 0
+  },
+  {
+    "token": "specific",
+    "ner_tag": 0
+  },
+  {
+    "token": "capabilities",
+    "ner_tag": 0
+  },
+  {
+    "token": "and",
+    "ner_tag": 0
+  },
+  {
+    "token": "implementation,",
+    "ner_tag": 7
+  },
+  {
+    "token": "is",
+    "ner_tag": 0
+  },
+  {
+    "token": "known",
+    "ner_tag": 0
+  },
+  {
+    "token": "variously",
+    "ner_tag": 0
+  },
+  {
+    "token": "as",
+    "ner_tag": 0
+  },
+  {
+    "token": "electronic",
+    "ner_tag": 1
+  },
+  {
+    "token": "brakeforce",
+    "ner_tag": 2
+  },
+  {
+    "token": "distribution,",
+    "ner_tag": 2
+  },
+  {
+    "token": "traction",
+    "ner_tag": 1
+  },
+  {
+    "token": "control",
+    "ner_tag": 2
+  },
+  {
+    "token": "system,",
+    "ner_tag": 2
+  },
+  {
+    "token": "emergency",
+    "ner_tag": 5
+  },
+  {
+    "token": "brake",
+    "ner_tag": 6
+  },
+  {
+    "token": "assist,",
+    "ner_tag": 2
+  },
+  {
+    "token": "or",
+    "ner_tag": 0
+  },
+  {
+    "token": "electronic",
+    "ner_tag": 1
+  },
+  {
+    "token": "stability",
+    "ner_tag": 2
+  },
+  {
+    "token": "control",
+    "ner_tag": 2
+  },
+  {
+    "token": "(ESC).",
+    "ner_tag": 2
+  }
+]

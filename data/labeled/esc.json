@@ -1,0 +1,794 @@
+[
+  {
+    "token": "Electronic",
+    "ner_tag": 1
+  },
+  {
+    "token": "stability",
+    "ner_tag": 2
+  },
+  {
+    "token": "control",
+    "ner_tag": 2
+  },
+  {
+    "token": "(ESC),",
+    "ner_tag": 2
+  },
+  {
+    "token": "also",
+    "ner_tag": 0
+  },
+  {
+    "token": "referred",
+    "ner_tag": 0
+  },
+  {
+    "token": "to",
+    "ner_tag": 0
+  },
+  {
+    "token": "as",
+    "ner_tag": 0
+  },
+  {
+    "token": "electronic",
+    "ner_tag": 1
+  },
+  {
+    "token": "stability",
+    "ner_tag": 2
+  },
+  {
+    "token": "program",
+    "ner_tag": 2
+  },
+  {
+    "token": "(ESP)",
+    "ner_tag": 2
+  },
+  {
+    "token": "or",
+    "ner_tag": 0
+  },
+  {
+    "token": "dynamic",
+    "ner_tag": 1
+  },
+  {
+    "token": "stability",
+    "ner_tag": 2
+  },
+  {
+    "token": "control",
+    "ner_tag": 2
+  },
+  {
+    "token": "(DSC),",
+    "ner_tag": 2
+  },
+  {
+    "token": "is",
+    "ner_tag": 0
+  },
+  {
+    "token": "a",
+    "ner_tag": 0
+  },
+  {
+    "token": "computerized",
+    "ner_tag": 0
+  },
+  {
+    "token": "technology",
+    "ner_tag": 1
+  },
+  {
+    "token": "that",
+    "ner_tag": 0
+  },
+  {
+    "token": "improves",
+    "ner_tag": 7
+  },
+  {
+    "token": "a",
+    "ner_tag": 0
+  },
+  {
+    "token": "vehicle's",
+    "ner_tag": 0
+  },
+  {
+    "token": "stability",
+    "ner_tag": 2
+  },
+  {
+    "token": "by",
+    "ner_tag": 0
+  },
+  {
+    "token": "detecting",
+    "ner_tag": 8
+  },
+  {
+    "token": "and",
+    "ner_tag": 0
+  },
+  {
+    "token": "reducing",
+    "ner_tag": 8
+  },
+  {
+    "token": "loss",
+    "ner_tag": 0
+  },
+  {
+    "token": "of",
+    "ner_tag": 0
+  },
+  {
+    "token": "traction",
+    "ner_tag": 0
+  },
+  {
+    "token": "(skidding).",
+    "ner_tag": 5
+  },
+  {
+    "token": "When",
+    "ner_tag": 0
+  },
+  {
+    "token": "ESC",
+    "ner_tag": 1
+  },
+  {
+    "token": "detects",
+    "ner_tag": 7
+  },
+  {
+    "token": "loss",
+    "ner_tag": 5
+  },
+  {
+    "token": "of",
+    "ner_tag": 5
+  },
+  {
+    "token": "steering",
+    "ner_tag": 5
+  },
+  {
+    "token": "control,",
+    "ner_tag": 6
+  },
+  {
+    "token": "it",
+    "ner_tag": 0
+  },
+  {
+    "token": "automatically",
+    "ner_tag": 0
+  },
+  {
+    "token": "applies",
+    "ner_tag": 7
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "brakes",
+    "ner_tag": 9
+  },
+  {
+    "token": "to",
+    "ner_tag": 0
+  },
+  {
+    "token": "help",
+    "ner_tag": 7
+  },
+  {
+    "token": "steer",
+    "ner_tag": 8
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "vehicle",
+    "ner_tag": 0
+  },
+  {
+    "token": "where",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "driver",
+    "ner_tag": 0
+  },
+  {
+    "token": "intends",
+    "ner_tag": 7
+  },
+  {
+    "token": "to",
+    "ner_tag": 0
+  },
+  {
+    "token": "go.",
+    "ner_tag": 8
+  },
+  {
+    "token": "Braking",
+    "ner_tag": 7
+  },
+  {
+    "token": "is",
+    "ner_tag": 0
+  },
+  {
+    "token": "automatically",
+    "ner_tag": 7
+  },
+  {
+    "token": "applied",
+    "ner_tag": 8
+  },
+  {
+    "token": "to",
+    "ner_tag": 0
+  },
+  {
+    "token": "wheels",
+    "ner_tag": 9
+  },
+  {
+    "token": "individually,",
+    "ner_tag": 0
+  },
+  {
+    "token": "such",
+    "ner_tag": 0
+  },
+  {
+    "token": "as",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "outer",
+    "ner_tag": 1
+  },
+  {
+    "token": "front",
+    "ner_tag": 2
+  },
+  {
+    "token": "wheel",
+    "ner_tag": 10
+  },
+  {
+    "token": "to",
+    "ner_tag": 0
+  },
+  {
+    "token": "counter",
+    "ner_tag": 7
+  },
+  {
+    "token": "oversteer,",
+    "ner_tag": 5
+  },
+  {
+    "token": "or",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "inner",
+    "ner_tag": 9
+  },
+  {
+    "token": "rear",
+    "ner_tag": 10
+  },
+  {
+    "token": "wheel",
+    "ner_tag": 10
+  },
+  {
+    "token": "to",
+    "ner_tag": 0
+  },
+  {
+    "token": "counter",
+    "ner_tag": 7
+  },
+  {
+    "token": "understeer.",
+    "ner_tag": 5
+  },
+  {
+    "token": "Some",
+    "ner_tag": 0
+  },
+  {
+    "token": "ESC",
+    "ner_tag": 1
+  },
+  {
+    "token": "systems",
+    "ner_tag": 2
+  },
+  {
+    "token": "also",
+    "ner_tag": 0
+  },
+  {
+    "token": "reduce",
+    "ner_tag": 7
+  },
+  {
+    "token": "engine",
+    "ner_tag": 9
+  },
+  {
+    "token": "power",
+    "ner_tag": 10
+  },
+  {
+    "token": "until",
+    "ner_tag": 0
+  },
+  {
+    "token": "control",
+    "ner_tag": 0
+  },
+  {
+    "token": "is",
+    "ner_tag": 0
+  },
+  {
+    "token": "regained.",
+    "ner_tag": 7
+  },
+  {
+    "token": "ESC",
+    "ner_tag": 1
+  },
+  {
+    "token": "does",
+    "ner_tag": 0
+  },
+  {
+    "token": "not",
+    "ner_tag": 0
+  },
+  {
+    "token": "improve",
+    "ner_tag": 7
+  },
+  {
+    "token": "a",
+    "ner_tag": 0
+  },
+  {
+    "token": "vehicle's",
+    "ner_tag": 0
+  },
+  {
+    "token": "cornering",
+    "ner_tag": 3
+  },
+  {
+    "token": "performance;",
+    "ner_tag": 4
+  },
+  {
+    "token": "instead,",
+    "ner_tag": 0
+  },
+  {
+    "token": "it",
+    "ner_tag": 0
+  },
+  {
+    "token": "helps",
+    "ner_tag": 7
+  },
+  {
+    "token": "reduce",
+    "ner_tag": 8
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "chance",
+    "ner_tag": 0
+  },
+  {
+    "token": "of",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "driver",
+    "ner_tag": 0
+  },
+  {
+    "token": "losing",
+    "ner_tag": 5
+  },
+  {
+    "token": "control",
+    "ner_tag": 6
+  },
+  {
+    "token": "of",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "vehicle",
+    "ner_tag": 6
+  },
+  {
+    "token": "on",
+    "ner_tag": 0
+  },
+  {
+    "token": "a",
+    "ner_tag": 0
+  },
+  {
+    "token": "slippery",
+    "ner_tag": 5
+  },
+  {
+    "token": "road.",
+    "ner_tag": 6
+  },
+  {
+    "token": "According",
+    "ner_tag": 0
+  },
+  {
+    "token": "to",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "U.S.",
+    "ner_tag": 0
+  },
+  {
+    "token": "National",
+    "ner_tag": 0
+  },
+  {
+    "token": "Highway",
+    "ner_tag": 0
+  },
+  {
+    "token": "Traffic",
+    "ner_tag": 0
+  },
+  {
+    "token": "Safety",
+    "ner_tag": 0
+  },
+  {
+    "token": "Administration",
+    "ner_tag": 0
+  },
+  {
+    "token": "and",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "Insurance",
+    "ner_tag": 0
+  },
+  {
+    "token": "Institute",
+    "ner_tag": 0
+  },
+  {
+    "token": "for",
+    "ner_tag": 0
+  },
+  {
+    "token": "Highway",
+    "ner_tag": 0
+  },
+  {
+    "token": "Safety",
+    "ner_tag": 0
+  },
+  {
+    "token": "in",
+    "ner_tag": 0
+  },
+  {
+    "token": "2004",
+    "ner_tag": 0
+  },
+  {
+    "token": "and",
+    "ner_tag": 0
+  },
+  {
+    "token": "2006,",
+    "ner_tag": 0
+  },
+  {
+    "token": "one-third",
+    "ner_tag": 0
+  },
+  {
+    "token": "of",
+    "ner_tag": 0
+  },
+  {
+    "token": "fatal",
+    "ner_tag": 5
+  },
+  {
+    "token": "accidents",
+    "ner_tag": 6
+  },
+  {
+    "token": "could",
+    "ner_tag": 0
+  },
+  {
+    "token": "be",
+    "ner_tag": 0
+  },
+  {
+    "token": "prevented",
+    "ner_tag": 7
+  },
+  {
+    "token": "by",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "use",
+    "ner_tag": 0
+  },
+  {
+    "token": "of",
+    "ner_tag": 0
+  },
+  {
+    "token": "this",
+    "ner_tag": 0
+  },
+  {
+    "token": "technology.",
+    "ner_tag": 1
+  },
+  {
+    "token": "In",
+    "ner_tag": 0
+  },
+  {
+    "token": "Europe",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "electronic",
+    "ner_tag": 1
+  },
+  {
+    "token": "stability",
+    "ner_tag": 2
+  },
+  {
+    "token": "program",
+    "ner_tag": 2
+  },
+  {
+    "token": "had",
+    "ner_tag": 0
+  },
+  {
+    "token": "saved",
+    "ner_tag": 7
+  },
+  {
+    "token": "an",
+    "ner_tag": 0
+  },
+  {
+    "token": "estimated",
+    "ner_tag": 0
+  },
+  {
+    "token": "15,000",
+    "ner_tag": 0
+  },
+  {
+    "token": "lives",
+    "ner_tag": 0
+  },
+  {
+    "token": "as",
+    "ner_tag": 0
+  },
+  {
+    "token": "of",
+    "ner_tag": 0
+  },
+  {
+    "token": "2020.",
+    "ner_tag": 0
+  },
+  {
+    "token": "ESC",
+    "ner_tag": 1
+  },
+  {
+    "token": "became",
+    "ner_tag": 0
+  },
+  {
+    "token": "mandatory",
+    "ner_tag": 0
+  },
+  {
+    "token": "in",
+    "ner_tag": 0
+  },
+  {
+    "token": "new",
+    "ner_tag": 0
+  },
+  {
+    "token": "cars",
+    "ner_tag": 0
+  },
+  {
+    "token": "in",
+    "ner_tag": 0
+  },
+  {
+    "token": "Canada,",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "US,",
+    "ner_tag": 0
+  },
+  {
+    "token": "and",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "European",
+    "ner_tag": 0
+  },
+  {
+    "token": "Union",
+    "ner_tag": 0
+  },
+  {
+    "token": "in",
+    "ner_tag": 0
+  },
+  {
+    "token": "2011,",
+    "ner_tag": 0
+  },
+  {
+    "token": "2012,",
+    "ner_tag": 0
+  },
+  {
+    "token": "and",
+    "ner_tag": 0
+  },
+  {
+    "token": "2014,",
+    "ner_tag": 0
+  },
+  {
+    "token": "respectively.",
+    "ner_tag": 0
+  },
+  {
+    "token": "Worldwide,",
+    "ner_tag": 0
+  },
+  {
+    "token": "82",
+    "ner_tag": 0
+  },
+  {
+    "token": "percent",
+    "ner_tag": 0
+  },
+  {
+    "token": "of",
+    "ner_tag": 0
+  },
+  {
+    "token": "all",
+    "ner_tag": 0
+  },
+  {
+    "token": "new",
+    "ner_tag": 0
+  },
+  {
+    "token": "passenger",
+    "ner_tag": 0
+  },
+  {
+    "token": "cars",
+    "ner_tag": 0
+  },
+  {
+    "token": "feature",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "anti-skid",
+    "ner_tag": 1
+  },
+  {
+    "token": "system.",
+    "ner_tag": 2
+  }
+]

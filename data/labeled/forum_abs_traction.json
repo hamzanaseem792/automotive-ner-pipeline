@@ -1,0 +1,310 @@
+[
+  {
+    "token": "I",
+    "ner_tag": 0
+  },
+  {
+    "token": "was",
+    "ner_tag": 0
+  },
+  {
+    "token": "wondering",
+    "ner_tag": 0
+  },
+  {
+    "token": "whether",
+    "ner_tag": 0
+  },
+  {
+    "token": "ABS",
+    "ner_tag": 1
+  },
+  {
+    "token": "and",
+    "ner_tag": 0
+  },
+  {
+    "token": "traction",
+    "ner_tag": 1
+  },
+  {
+    "token": "control",
+    "ner_tag": 2
+  },
+  {
+    "token": "are",
+    "ner_tag": 0
+  },
+  {
+    "token": "related.",
+    "ner_tag": 0
+  },
+  {
+    "token": "Do",
+    "ner_tag": 0
+  },
+  {
+    "token": "they",
+    "ner_tag": 0
+  },
+  {
+    "token": "use",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "same",
+    "ner_tag": 0
+  },
+  {
+    "token": "sensors,",
+    "ner_tag": 3
+  },
+  {
+    "token": "or",
+    "ner_tag": 0
+  },
+  {
+    "token": "are",
+    "ner_tag": 0
+  },
+  {
+    "token": "they",
+    "ner_tag": 0
+  },
+  {
+    "token": "completely",
+    "ner_tag": 0
+  },
+  {
+    "token": "independent?",
+    "ner_tag": 0
+  },
+  {
+    "token": "I'm",
+    "ner_tag": 0
+  },
+  {
+    "token": "trying",
+    "ner_tag": 7
+  },
+  {
+    "token": "to",
+    "ner_tag": 8
+  },
+  {
+    "token": "understand",
+    "ner_tag": 8
+  },
+  {
+    "token": "how",
+    "ner_tag": 8
+  },
+  {
+    "token": "they",
+    "ner_tag": 8
+  },
+  {
+    "token": "work",
+    "ner_tag": 8
+  },
+  {
+    "token": "together",
+    "ner_tag": 8
+  },
+  {
+    "token": "during",
+    "ner_tag": 0
+  },
+  {
+    "token": "emergency",
+    "ner_tag": 5
+  },
+  {
+    "token": "braking",
+    "ner_tag": 6
+  },
+  {
+    "token": "or",
+    "ner_tag": 0
+  },
+  {
+    "token": "on",
+    "ner_tag": 0
+  },
+  {
+    "token": "wet",
+    "ner_tag": 5
+  },
+  {
+    "token": "roads.",
+    "ner_tag": 6
+  },
+  {
+    "token": "I",
+    "ner_tag": 0
+  },
+  {
+    "token": "know",
+    "ner_tag": 0
+  },
+  {
+    "token": "both",
+    "ner_tag": 0
+  },
+  {
+    "token": "systems",
+    "ner_tag": 0
+  },
+  {
+    "token": "involve",
+    "ner_tag": 0
+  },
+  {
+    "token": "wheel-speed",
+    "ner_tag": 3
+  },
+  {
+    "token": "sensors,",
+    "ner_tag": 4
+  },
+  {
+    "token": "but",
+    "ner_tag": 0
+  },
+  {
+    "token": "I'm",
+    "ner_tag": 0
+  },
+  {
+    "token": "not",
+    "ner_tag": 0
+  },
+  {
+    "token": "sure",
+    "ner_tag": 0
+  },
+  {
+    "token": "if",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "control",
+    "ner_tag": 1
+  },
+  {
+    "token": "modules",
+    "ner_tag": 2
+  },
+  {
+    "token": "are",
+    "ner_tag": 0
+  },
+  {
+    "token": "separate.",
+    "ner_tag": 0
+  },
+  {
+    "token": "I",
+    "ner_tag": 0
+  },
+  {
+    "token": "recently",
+    "ner_tag": 0
+  },
+  {
+    "token": "had",
+    "ner_tag": 0
+  },
+  {
+    "token": "an",
+    "ner_tag": 0
+  },
+  {
+    "token": "issue",
+    "ner_tag": 5
+  },
+  {
+    "token": "where",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "traction",
+    "ner_tag": 1
+  },
+  {
+    "token": "control",
+    "ner_tag": 2
+  },
+  {
+    "token": "light",
+    "ner_tag": 5
+  },
+  {
+    "token": "came",
+    "ner_tag": 0
+  },
+  {
+    "token": "on",
+    "ner_tag": 0
+  },
+  {
+    "token": "after",
+    "ner_tag": 0
+  },
+  {
+    "token": "my",
+    "ner_tag": 0
+  },
+  {
+    "token": "ABS",
+    "ner_tag": 1
+  },
+  {
+    "token": "fault,",
+    "ner_tag": 5
+  },
+  {
+    "token": "and",
+    "ner_tag": 0
+  },
+  {
+    "token": "the",
+    "ner_tag": 0
+  },
+  {
+    "token": "technician",
+    "ner_tag": 0
+  },
+  {
+    "token": "said",
+    "ner_tag": 0
+  },
+  {
+    "token": "they",
+    "ner_tag": 0
+  },
+  {
+    "token": "were",
+    "ner_tag": 0
+  },
+  {
+    "token": "likely",
+    "ner_tag": 0
+  },
+  {
+    "token": "connected.",
+    "ner_tag": 0
+  }
+]
