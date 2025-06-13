@@ -41,7 +41,7 @@ def label_text_file(file_path): # this function will take one file like wiki_abs
     print("Type the label number (e.g., 1 for B-COMPONENT), or press ENTER for 'O'\n")
 
     for i, token in enumerate(tokens):
-        print(f"\n🔹 Token [{i+1}/{len(tokens)}]: {token}")
+        print(f"\n Token [{i+1}/{len(tokens)}]: {token}")
         for j, label in enumerate(LABELS):
             print(f"{j}: {label}")
         inp = input("Label number (default=0): ").strip()
